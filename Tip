@@ -1,0 +1,13 @@
+Create a file named 'local.properties' under the 'projectFolder/android' folder and add 'sdk.dir=/home/nayeem/Android/Sdk' then save it.
+
+
+go to here "/Android/Sdk/tools" 
+then run this "./emulator @Nexus_5X_API_25_x86"
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/uraniumreza/Assignment.git
+git push -u origin master
+
